@@ -2,6 +2,7 @@
   "rewrites": [
     { "source": "/terms", "destination": "/terms.html" },
     { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/ai-usage-policy", "destination": "/ai-usage-policy.html" },
     { "source": "/", "destination": "/practiceos/index.html" }
   ]
 }
